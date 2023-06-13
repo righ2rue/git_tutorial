@@ -1,1 +1,2 @@
-CONTRIBUTING
+CONTRIBUTING.md
+woojin.lee
